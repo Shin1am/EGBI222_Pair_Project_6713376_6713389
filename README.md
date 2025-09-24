@@ -32,7 +32,7 @@ You can run the notebook directly on Google Colab:
 3. **Run All Cells**
    - The notebook will guide you through mounting Google Drive, importing libraries, loading data, and performing EDA.
 
-## Sample Result
+
 
 
 ## Repository Structure
